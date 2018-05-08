@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\计算机学院\计算机网络\实验\lab1\lab1\main.cpp(56): warning C4101: “dwThreadID”: 未引用的局部变量
+e:\计算机学院\计算机网络\实验\lab1\lab1\main.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+e:\计算机学院\计算机网络\实验\lab1\lab1\main.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+e:\计算机学院\计算机网络\实验\lab1\lab1\main.cpp(285): warning C4101: “clientAddr”: 未引用的局部变量
+  Lab1.vcxproj -> E:\计算机学院\计算机网络\实验\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> E:\计算机学院\计算机网络\实验\Lab1\Debug\Lab1.pdb (Partial PDB)
