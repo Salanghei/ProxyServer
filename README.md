@@ -1,7 +1,7 @@
 # ProxyServer
 简单的HTTP代理服务器
 
-##实现功能：
+## 实现功能：
 
 - **在指定端口（例如 8080）接收来自客户的 HTTP 请求并且根据其中的 URL 地址访问该地址所指向的 HTTP 服务器（原服务器），接收 HTTP 服务器的响应报文，并将响应报文转发给对应的客户进行浏览 **
 - **支持 Cache 功能：求能缓存原服务器响应的对象，并能够通过修改请求报文（添加 If-Modified-Since 头行），向原服务器确认缓存对象是否是最新版本**
@@ -22,5 +22,5 @@
 7、关闭套接字
 
 博客原文：
-https://blog.csdn.net/qq_33003797/article/details/80246070
-https://salanghei.github.io/2018/05/08/%E7%AE%80%E5%8D%95%E7%9A%84HTTP%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD-%E6%8B%93%E5%B1%95%E5%8A%9F%E8%83%BD%EF%BC%89/
+- https://blog.csdn.net/qq_33003797/article/details/80246070
+- https://salanghei.github.io/2018/05/08/%E7%AE%80%E5%8D%95%E7%9A%84HTTP%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD-%E6%8B%93%E5%B1%95%E5%8A%9F%E8%83%BD%EF%BC%89/
